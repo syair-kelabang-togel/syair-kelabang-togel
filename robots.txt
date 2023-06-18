@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://syair-kelabang-togel.github.io/sitemap.xml
